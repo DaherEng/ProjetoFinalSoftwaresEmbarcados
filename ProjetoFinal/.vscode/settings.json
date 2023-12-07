@@ -13,5 +13,18 @@
         "target/esp32.cfg"
     ],
     "idf.pythonBinPathWin": "C:\\Users\\igord\\.espressif\\python_env\\idf5.1_py3.11_env\\Scripts\\python.exe",
-    "idf.toolsPathWin": "C:\\Users\\igord\\.espressif"
+    "idf.toolsPathWin": "C:\\Users\\igord\\.espressif",
+    "files.associations": {
+        "array": "c",
+        "deque": "c",
+        "list": "c",
+        "string": "c",
+        "unordered_map": "c",
+        "vector": "c",
+        "string_view": "c",
+        "initializer_list": "c",
+        "regex": "c",
+        "*.tcc": "c",
+        "system_error": "c"
+    }
 }
